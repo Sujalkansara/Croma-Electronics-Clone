@@ -1,0 +1,42 @@
+@media screen and (max-width: 428px) {
+
+    *{
+        margin: 0;
+        padding: 0;
+    }
+
+    big{
+        color: white;
+        font-family: sans-serif;
+        font-weight: bolder;
+        font-size: 25px;
+        margin-left: 20px;
+    }
+
+    .first{
+        width: 1331px;
+    }
+
+    header{
+        width: 1324px;
+    }
+
+    .write{
+        font-size: 25px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    input{
+        justify-content: center;
+        display: grid;
+    }
+
+    .contain-44{
+        height: 45vh;
+    }
+
+    #container-1{
+        height: 896vh;
+    }
+}

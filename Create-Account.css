@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+p{
+    font-family: sans-serif;
+    color: rgb(28, 184, 132);
+    margin-left: 175px;
+}
+
+b{
+    font-family: sans-serif;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px; 
+    color: white;
+}
+
+span{
+    color: red;
+}
+
+form big{
+    font-family: sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: rgb(28, 184, 132);
+    letter-spacing: 0.7rem;
+    margin-left: 565px;
+}
+
+.container-1{
+    height: 115vh;
+    width: 40vw;
+    border: 1px solid black; 
+    margin-left: 380px;
+    margin-top: 5px;
+    color: white;
+    background-color: black;
+}
+
+form{
+    margin-top: 80px;
+}
+
+form big{
+    font-family: sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    color: rgb(28, 184, 132);
+    letter-spacing: 0.7rem;
+    margin-left: 190px;
+}
+
+.contain-1{
+    font-family: sans-serif;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.contain-1 #F-name{
+    font-family: sans-serif;
+    height: 30px;
+    width: 220px;
+    padding-left: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+
+.contain-2{
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.contain-2 #L-name{
+    font-family: sans-serif;
+    height: 30px;
+    width: 220px;
+    padding-left: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+
+.contain-3{
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.contain-3 #Username{
+    font-family: sans-serif;
+    height: 30px;
+    width: 220px;
+    padding-left: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+}
+
+.contain-4{
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.contain-4 #password{
+    font-family: sans-serif;
+    height: 30px;
+    width: 220px;
+    padding-left: 5px;
+    margin-top: 5px;
+    border-radius: 3px;
+    border: 2px solid black;
+} 
+
+.contain-5{
+    font-family: sans-serif;
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.contain-5 #Submit{
+    height: 30px;
+    width: 75px;
+    padding-left: 0px;
+    margin-top: 20px; 
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;  
+}
+
+.contain-6{
+    margin-top: 25px;
+}
+.contain-6 a{
+    font-family: sans-serif;
+    color: blue;
+    font-weight: bold;
+    font-size: large; 
+    text-decoration: none;
+    margin-left: 25px;
+}
